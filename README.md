@@ -7,4 +7,4 @@
     docker-compose up
 
 # APIs available
-    Weather endpoint - localhost:3000/v1/weather
+    Weather endpoint - GET localhost:3000/v1/weather
